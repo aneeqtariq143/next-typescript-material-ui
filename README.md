@@ -32,3 +32,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# Material UI
+### [Installation](https://next.material-ui.com/getting-started/installation/)
+
+// with npm <br>
+`npm install @material-ui/core@next @emotion/react @emotion/styled @material-ui/icons@next`
+
+#### Setup
+Create the file `./pages/_document.js` [reference](https://nextjs.org/docs/advanced-features/custom-document) and add material ui `Roboto Font & Font Icons` into header 
+
